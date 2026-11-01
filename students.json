@@ -1,0 +1,11 @@
+{
+    "101": {
+        "name": "Neeraj",
+        "department": "cse",
+        "marks": {
+            "Python": 75.0,
+            "Maths": 80.0,
+            "DBMS": 88.0
+        }
+    }
+}
